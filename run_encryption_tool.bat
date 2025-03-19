@@ -1,0 +1,6 @@
+@echo off
+echo Installing required dependencies...
+pip install -r requirements.txt
+
+echo Starting Advanced Encryption Tool...
+python encryption_app.py 
