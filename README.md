@@ -69,17 +69,18 @@ The Advanced Encryption Tool is ideal for:
 Upon executing the application, the main window of the Advanced Encryption Tool is displayed. The interface consists of two tabs:
 - **Encrypt:** To encrypt a file using a password.
 - **Decrypt:** To decrypt a previously encrypted file.
+![Image](https://github.com/user-attachments/assets/472c7f02-76b6-4edd-8b6c-7af07c3d8a98)
 
 
 2. **File Encryption Completion**
 After selecting a file, entering a password, and starting the encryption process, the tool successfully encrypts the file and provides a 
 confirmation message.
+![Image](https://github.com/user-attachments/assets/77a3ef90-0050-48e0-8f1a-33df67c5ce1c)
 
 
 3. **File Decryption Completion**
 Similarly, after selecting an encrypted file and entering the correct password, the decryption process restores the original file successfully.
-
-
+![Image](https://github.com/user-attachments/assets/da7b57e8-4149-44bf-abd6-9ba2c66014e2)
 
 
 **Testing Environment:**
